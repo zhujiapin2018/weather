@@ -1,0 +1,23 @@
+{
+    "results":
+    [
+        {
+            "location":
+            {
+                "id":"WX4FBXXFKE4F",
+                "name":"北京",
+                "country":"CN",
+                "path":"北京,北京,中国",
+                "timezone":"Asia/Shanghai",
+                "timezone_offset":"+08:00"
+            },
+            "now":
+            {
+                "text":"多云",
+                "code":"4",
+                "temperature":"11"
+            },
+            "last_update":"2019-11-03T11:09:00+08:00"
+        }
+    ]
+}

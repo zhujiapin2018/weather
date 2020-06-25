@@ -1,0 +1,5 @@
+menu "ICONV"
+config ICONV_ENABLE
+bool "Enable ICONV"
+default "y"
+endmenu
